@@ -1,6 +1,6 @@
-<h1>Greetings! I'm Rushikesh Shivaji Biradar, currently pursuing B.Tech in Computer Science & Engineering with specialization in Artificial Intelligence & Machine Learning at Pimpri Chichwad College Of Engineering (PCCOE),Pune. A passionate and dedicated Software Developer & Full Stack Developer with a flair for crafting innovative and user-centric sulutions. Throughout my career, I've been driven by the desire to create seamless and robust web applications that make a positive impact on users and businesses alike.
+<B>Greetings! I'm Rushikesh Shivaji Biradar, currently pursuing B.Tech in Computer Science & Engineering with specialization in Artificial Intelligence & Machine Learning at Pimpri Chichwad College Of Engineering (PCCOE),Pune. A passionate and dedicated Software Developer & Full Stack Developer with a flair for crafting innovative and user-centric sulutions. Throughout my career, I've been driven by the desire to create seamless and robust web applications that make a positive impact on users and businesses alike.
 
-</h1>
+</B>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://rushikeshbiradar.netlify.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rushisb.55/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-biradar-1b620722a/) 
